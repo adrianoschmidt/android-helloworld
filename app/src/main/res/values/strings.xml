@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">My First App</string>
+    <string name="app_name">Monster App</string>
 
     <string name="edit_message">Enter a message</string>
     <string name="button_send">Send</string>
@@ -8,5 +8,4 @@
     <string name="title_activity_main">MainActivity</string>
     <string name="title_activity_display_message">My Message</string>
 
-    <string name="hello_world">Hello world!</string>
 </resources>
